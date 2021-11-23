@@ -1,4 +1,4 @@
-# Intro-to-ML
+# ML_image_classifier
 Here are a few different approaches to classify images using TensorFlow.
 
 ## File Overview
